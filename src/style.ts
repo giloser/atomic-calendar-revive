@@ -164,7 +164,7 @@ export const styles: CSSResultGroup = css`
 		border-width: 2px 0 0 0;
 	}
 	.event-cal-name-icon {
-		--mdc-icon-size: 15px;
+		--mdc-icon-size: 45px;
 	}
 
 	.eventBar {
@@ -380,7 +380,7 @@ export const styles: CSSResultGroup = css`
 	}
 
 	.event-icon {
-		--mdc-icon-size: 15px !important;
+		--mdc-icon-size: 45px !important;
 		padding-top: 0px;
 		margin-top: -10px;
 		margin-right: -1px;
